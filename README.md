@@ -24,3 +24,5 @@ Next install all dependencies
 ### Running the Script
 
 `python3 convert.py`
+
+*Note: Currently you must remove `.md` files manually if you would not like to include them in the destination folder*
