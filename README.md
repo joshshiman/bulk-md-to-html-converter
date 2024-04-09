@@ -21,14 +21,6 @@ Next install all dependencies
 
 - `pip3 install -r requirements.txt`
 
-Create a .env file
-
-- `touch .env`
-
-Add file path to your .env file
-
-- `echo SECRET = "your secret here"`
-
 ### Running the Script
 
 `python3 convert.py`

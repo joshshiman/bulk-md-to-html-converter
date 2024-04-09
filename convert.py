@@ -41,10 +41,10 @@ def convert_md_to_html(dest_dir):
 
 def main():
     # Path to the source directory
-    src_dir = '/Users/jshiman/Documents/GitHub/supp-runbooks/docs'
+    src_dir = '(insert source path here)'
 
     # Path to the destination directory
-    dest_dir = '/Users/jshiman/Downloads/Destination'
+    dest_dir = '(insert destination path here)'
 
     # Clone markdown files and images
     clone_md_and_images(src_dir, dest_dir)
